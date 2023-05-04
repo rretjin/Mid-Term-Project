@@ -1,6 +1,6 @@
 ## 오픈소스 SW활용
 - 중간고사 대체 과제
-- [Portfolio](http://rretjin.github.io/Mid-Term-Project/mid-term.html)
+- [Portfolio](http://rretjin.github.io/Mid-Term-Project/index.html)
 
 ## 내용
 - 최소 10회 이상의 commit
